@@ -8,7 +8,7 @@ O objetivo do projeto e praticar desenvolvimento web criando uma interface de co
 - Visualizar saldo atual
 - Registrar compras
 - Controlar gastos fixos
-- Criar uma meta do mes
+- Criar uma meta do mês
 - Atualizar valores dinamicamente com JavaScript
 - Adaptar a tela para computador, notebook, tablet e smartphone
 
